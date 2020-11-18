@@ -21,7 +21,7 @@
   "devDependencies": {
     "@semantic-release/git": "^7.0.16",
     "@zeit/ncc": "^0.20.5",
-    "semantic-release": "^15.13.24"
+    "semantic-release": "^17.2.3"
   },
   "release": {
     "plugins": [
